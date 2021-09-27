@@ -1,0 +1,6 @@
+.dir-locals.el
+dist/
+dist-newstyle/
+*.nix
+.ghc*
+.DS_Store
